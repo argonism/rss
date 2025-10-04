@@ -1,2 +1,4 @@
 https://openai.com/news/rss.xml
-https://rsshub.app/huggingface/daily-papers
+https://huggingface.co/blog/feed.xml
+https://feeds.feedburner.com/blogspot/gJZg
+https://zenn.dev/topics/llm/feed
