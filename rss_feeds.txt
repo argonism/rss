@@ -3,3 +3,4 @@ https://huggingface.co/blog/feed.xml
 https://feeds.feedburner.com/blogspot/gJZg
 https://zenn.dev/topics/llm/feed
 https://ai-news.dev/feeds/
+https://blog.python.org/feeds/posts/default?alt=rss\nhttps://openai.com/news/rss.xml
